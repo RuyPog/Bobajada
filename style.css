@@ -15,15 +15,17 @@ h1 {
     padding: 10px;
 }
 #burgao:hover {
-    background-color: white;
+    background-color: rgb(48, 48, 48);
     color: black;
 }
 menu {
     display: none;
-    background-color: gray;
+    background-color: w;
     padding: 5px;
     list-style-type: none;
 }
 article {
     text-align: center;
+    width: 90vw;
+    margin: 16px;
 }
