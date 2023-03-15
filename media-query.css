@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px){
-    
+    #burgao {
+        display: none;
+    }
+    menu {
+        display: block;
+    }
 }
