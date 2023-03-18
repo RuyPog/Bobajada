@@ -45,3 +45,10 @@ article {
     text-align: center;
     width: 100vw;
 }
+footer {
+    background: url(Monoel.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+    height: auto;
+}
