@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@keyframes bobalhao{
+    0% {
+    transform: translateY(0px);
+    }
+    100% {
+    transform: translateY(5px);
+}
+}
 body {
     font-family: 'Caveat', cursive;
     overflow-x: hidden;
@@ -40,8 +48,7 @@ a {
     width: 17vw;
     height: 3vh;
 }
-article {
-    
+article { 
     text-align: center;
     width: 100vw;
 }
@@ -51,4 +58,7 @@ footer {
     text-align: center;
     padding: 40px;
     height: auto;
+}
+#sigma {
+    font-size: 20px;
 }
